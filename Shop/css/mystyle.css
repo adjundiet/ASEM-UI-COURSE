@@ -1,0 +1,39 @@
+
+.myheader
+{
+    
+    background-color: yellow;
+    color: black;
+    /*background-image: url('../logo.png');*/
+}
+.mymenu
+{
+   
+    color: white;
+    background-color: gray;    
+}
+/*
+.mymenu ul li
+{
+    display: inline;
+}*/
+
+.mybody
+{
+   
+    color: black;
+    background-color: green;
+}
+
+.mycontent
+{
+    color: rgb(59, 6, 6);
+    background-color:bisque;
+}
+
+.myfooter
+{
+   
+    color: white;
+    background-color: lightblue;    
+}

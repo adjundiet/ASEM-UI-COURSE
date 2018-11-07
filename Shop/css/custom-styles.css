@@ -1,0 +1,11 @@
+img {
+    /*margin-left: 100px;*/
+    display: inline-block;
+}
+
+#regBtn {
+    position: absolute;
+    right:  0px;
+    margin-right: 50px;
+    margin-top: 20px;
+}
